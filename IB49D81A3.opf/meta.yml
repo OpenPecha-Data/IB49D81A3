@@ -1,0 +1,25 @@
+id: IB49D81A3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:55:20.467966'
+last_modified: '2022-05-30T21:55:20.467997'
+parser: null
+source_metadata:
+  title: Jigme Tenpé Wangchuk Series
+  language: en
+  description: 'Texts by and about the Sixth Gungthang Lama, Jigme Tenpé Wangchuk
+    (''jigs med bstan pa''i dbang phyug, 1926–2000):'
+  volume:
+    f027C:
+      title: Aspiration for Electric Lamps
+      base_file: f027C.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
